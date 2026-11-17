@@ -1,11 +1,16 @@
-# React + Vite
+# Asistente del DM - D&D 5e
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web y Android para consultar monstruos, generar botín y lanzar dados en partidas de Dungeons & Dragons 5e.
 
-Currently, two official plugins are available:
+**Demo en Vercel:** https://TU-APP.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Módulos
+- Bestiario: busca y consulta monstruos de la API de D&D 5e.
+- Generador de Loot: botín aleatorio según el nivel de desafío.
+- Bandeja de dados: d4, d6, d8, d10, d12, d20 y d100.
+
+## Tecnologías
+React, Vite, JavaScript, CSS, CapacitorJS.
 
 ## React Compiler
 
@@ -17,3 +22,12 @@ You can also try [the experimental native React Compiler support in plugin-react
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Creador:
+Kevin David Beltrán Valverde
+
+# Creador del Creador:
+Dios mismo papa
+
+# Link Vercel:
+https://dnd-dm-assistant-five.vercel.app
