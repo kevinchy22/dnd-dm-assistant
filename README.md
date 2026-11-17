@@ -2,7 +2,7 @@
 
 Aplicación web y Android para consultar monstruos, generar botín y lanzar dados en partidas de Dungeons & Dragons 5e.
 
-**Demo en Vercel:** https://TU-APP.vercel.app
+**Link en Vercel:** https://dnd-dm-assistant-five.vercel.app
 
 ## Módulos
 - Bestiario: busca y consulta monstruos de la API de D&D 5e.
@@ -28,6 +28,3 @@ Kevin David Beltrán Valverde
 
 # Creador del Creador:
 Dios mismo papa
-
-# Link Vercel:
-https://dnd-dm-assistant-five.vercel.app
